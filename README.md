@@ -21,7 +21,7 @@ JavaScript : Interactivité côté client.
 API Google Maps : Intégration pour l'affichage des cartes et la fourniture de directions.
 Comment exécuter le projet
 Clonez le dépôt :
-git clone https://github.com/your-username/mauritania-healthcare-locator.git
+git clone https://github.com/Dahmoudjerrah/mauritania-healthcare-locator.git
 Accédez au répertoire du projet :
 cd mauritania-healthcare-locator
 Installez les dépendances :
